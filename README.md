@@ -15,11 +15,8 @@ A Python Tkinter based hospital appointment booking system.
 ## Technologies Used
 - Python
 - Tkinter
-- Pillow (PIL)
 
 ## How to Run
 1. Install Python (3.x)
-2. Install Pillow:
-   pip install pillow
-3. Run:
+2. Run:
    python main.py
