@@ -174,9 +174,7 @@ class HospitalApp:
 
 root = tk.Tk()
 app = HospitalApp(root)
-#root.iconbitmap(r"C:\Users\hamsa\OneDrive\Desktop\Python\my_venv\Scripts\Prathimahospitalicon.ico")
 root.iconbitmap("Prathimahospitalicon.ico")
-
 root.config(bg="lavender")
-
 root.mainloop()
+
